@@ -1,0 +1,29 @@
+p {color: rojo;}
+
+header {background: black;
+color: white;}
+
+li{
+	color: white;
+}
+
+h1{color: red;}
+
+footer {background: grey;
+
+}
+* img{
+	opacity: 5;
+	margin: 25px;
+	width: 300px;
+	height: 300px;}
+body{
+	background: yellowgreen;
+}
+link{
+	color: violet;
+/*
+}
+a:visited{
+color: yellow;
+}*/
