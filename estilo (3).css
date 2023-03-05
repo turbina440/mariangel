@@ -1,0 +1,55 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: century gotic sans-serif;
+}
+
+
+
+
+
+body{
+	width: 100%;
+	margin: auto;
+	background-color: #8bf;
+	
+}
+
+input{
+	margin: 12px;
+
+	width: 75%;
+	font-size: 18px;
+
+
+
+}
+.boton{background: #FFFF31;
+width: 75%;
+align-self: center;}
+
+textarea{
+	font-size: 18px;
+	margin: 12px;
+
+	width: 75%;
+	height:100px;
+}
+
+
+
+/*responsive*/
+@media only screen and (max-width: 500px){
+    body{
+    	background-color: #8bf;}
+   
+
+textarea{
+	font-size: 18px;
+	margin: 12px;
+
+	width: 75%;
+	height:300px;}
+
+
+}
