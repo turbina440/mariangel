@@ -15,7 +15,7 @@
 				<li><a href="precios.html">Precios</a></li>
 				<li><a href="nosotros.html">sobre Nosotros</a></li>
 				<li><a href="ubicacion.html">ubicacion</a></li>
-				<li><a href="php/form (1).php">Contacto</a></li>
+				<li><a href="form (2).php">Contacto</a></li>
 			</ul>
 		</header>
 	<form method="post">
