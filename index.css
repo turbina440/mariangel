@@ -23,7 +23,8 @@ padding:  10px;
 }
 
 
-body{background-image: url(fondo-fideos.jpg)}
+body{background-image: url(fondo-fideos.jpg);
+	background-size:cover;}
 
 footer {background: grey;
 	margin-top: 150px;
